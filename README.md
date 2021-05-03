@@ -1,2 +1,2 @@
 # Learn-Encryption-with-Python
-Decoding Various Encryption hash with Python
+**Decoding and Encoding Various Encryption hash with Python
