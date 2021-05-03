@@ -1,2 +1,2 @@
-# Encryption-Bruteforce-with-Python
+# Learn-Encryption-with-Python
 Decoding Various Encryption hash with Python
